@@ -1,0 +1,165 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Amatic SC', cursive;
+  line-height: 3rem;
+}
+.name-intro{
+  padding-top:150px;
+}
+.career-intro{
+  font-weight: normal;
+  font-size: 2rem;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom:250px;
+  left:250px;
+}
+
+
+
+.bottom-container {
+  background-color: #66BFBF;
+}
+.passion-img{
+  height:10rem;
+  float:left;
+  margin:1em;
+}
+h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 4rem;
+  color: #66BFBF;
+}
+h2{
+  color: #66BFBF;
+  margin: 0;
+}
+h3{
+  color:#11999E;
+  font-size: 2rem;
+}
+a{
+  color:#11999E;
+}
+
+hr{
+  border: none;
+  border-top-style: dotted;
+  border-width: thick;
+  width: 50px;
+  margin:50px auto;
+}
+
+.mother-div {
+  border: 5px solid;
+  background-color: green;
+}
+
+.yellow-div {
+  background-color: yellow;
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  top: 0;
+  left: 0;
+}
+
+.blue-div {
+  background-color: blue;
+  position: absolute;
+  left: 100px;
+  height: 100px;
+  width: 100px;
+  top: 100px;
+}
+
+p {
+  font-size: 2em;
+  margin: 0;
+}
+
+.red-div {
+  background-color: red;
+  position: absolute;
+  left: 200px;
+  height: 100px;
+  width: 100px;
+  top: 200px;
+}
+
+.top-cloud {
+  position: relative;
+  left: 300px;
+  top:70px;
+}
+
+.top-container {
+  background-color: #DDF3F5;
+  position: relative;
+  height: 670px;
+}
+.my-passion-lbl{
+  position: relative;
+  top: 50px;
+}
+.mountain-img{
+  position:relative;
+  bottom: 10px;
+}
+.skill-row{
+  width:40rem;
+  margin:5rem auto;
+  text-align: justify;
+
+}
+.stock-market-passion{
+  float:right;
+}
+.btn{
+
+  background: #11999E;
+  background-image: -webkit-linear-gradient(top, #11999E, #11999E);
+  background-image: -webkit-gradient(top, #11999E, #11999E);
+  background-image: -moz-linear-gradient(top, #11999E, #11999E);
+  background-image: -ms-linear-gradient(top, #11999E, #11999E);
+  background-image: -o-linear-gradient(top, #11999E, #11999E);
+  background-image: linear-gradient(to bottom, #11999E, #11999E);
+  -webkit-border-radius: 23;
+  -moz-border-radius: 23;
+  border-radius: 23px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #66BFBF;
+  background-image: -webkit-linear-gradient(top, #66BFBF, #66BFBFF);
+  background-image: -webkit-gradient(top, #66BFBF, #66BFBFF);
+  background-image: -moz-linear-gradient(top, #66BFBF, #66BFBFF);
+  background-image: -ms-linear-gradient(top, #66BFBF, #66BFBFF);
+  background-image: -o-linear-gradient(top, #66BFBF, #66BFBFF);
+  background-image: linear-gradient(to bottom, #66BFBF, #66BFBFF);
+  text-decoration: none;
+}
+.contact-me{
+  padding:20px;
+}
+.contact-me-details{
+  margin:10px;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  color: white;
+}
+.footer-link{
+  margin:10px;
+}
